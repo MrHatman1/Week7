@@ -3,7 +3,7 @@ const villainSpan = document.querySelector('#villain');
 const resultSpan = document.querySelector('#result');
 const launcherBtn = document.querySelector('button');
 
-const heroes = ["Harry Potter", "Luke SkyWwalker", "Lara Croft", "Superman", "Garfield"];
+const heroes = ["Harry Potter", "Luke Skywalker", "Lara Croft", "Superman", "Garfield"];
 const villains = ['Lord Voldemort', 'Darth Vader', 'Saruman', 'Joker', 'Cruella'];
 const weapon = ['plastick fork', 'banana peel', 'flip-flop', 'magic wand', 'wooden sword', 'rotten egg'];
 
